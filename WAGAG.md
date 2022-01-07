@@ -94,6 +94,7 @@ Good to know :
 ##### More information, useful links: 
 
 [GitHub about Git + examples](https://docs.github.com/en/get-started/using-git/about-git)
+<<<<<<< HEAD
 
 
 ### Testing GIT and Github
@@ -103,3 +104,5 @@ Added new text, now commit and Push :)))
 
 
 Now learning to do Branches.
+=======
+>>>>>>> parent of 0f2bdaf (Learning to comit)
