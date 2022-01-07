@@ -94,3 +94,8 @@ Good to know :
 ##### More information, useful links: 
 
 [GitHub about Git + examples](https://docs.github.com/en/get-started/using-git/about-git)
+
+
+### Testing GIT and Github
+
+Added new text, now commit and Push :)))
